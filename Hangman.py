@@ -1,7 +1,7 @@
 import random
 import string
 
-WORDLIST_FILENAME = "C:\Users\shivasathi\Desktop\words.txt"
+WORDLIST_FILENAME = "words.txt"
 
 def loadWords():
     print "Loading word list from file..."
